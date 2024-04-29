@@ -1,0 +1,5 @@
+{
+  "/analytics/page": "app/analytics/page.js",
+  "/machines/page": "app/machines/page.js",
+  "/production-sequences/page": "app/production-sequences/page.js"
+}
